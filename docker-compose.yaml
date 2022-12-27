@@ -1,0 +1,12 @@
+version: '2.13.0'
+services:
+  react-client:
+    build: ./react-client
+    container_name: react-client_c
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./react-client:/app
+      - /app/node_modules
+    stdin_open: true
+    tty: true

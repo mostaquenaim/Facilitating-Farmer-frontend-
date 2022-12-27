@@ -1,0 +1,42 @@
+S:\Facilitating-Farmers\server\BLL\bin\Debug\BLL.dll
+S:\Facilitating-Farmers\server\BLL\bin\Debug\BLL.pdb
+S:\Facilitating-Farmers\server\BLL\bin\Debug\AutoMapper.dll
+S:\Facilitating-Farmers\server\BLL\bin\Debug\DAL.dll
+S:\Facilitating-Farmers\server\BLL\bin\Debug\EntityFramework.dll
+S:\Facilitating-Farmers\server\BLL\bin\Debug\DAL.pdb
+S:\Facilitating-Farmers\server\BLL\bin\Debug\DAL.dll.config
+S:\Facilitating-Farmers\server\BLL\bin\Debug\AutoMapper.xml
+S:\Facilitating-Farmers\server\BLL\bin\Debug\EntityFramework.xml
+S:\Facilitating-Farmers\server\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+S:\Facilitating-Farmers\server\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+S:\Facilitating-Farmers\server\BLL\obj\Debug\BLL.csproj.CopyComplete
+S:\Facilitating-Farmers\server\BLL\obj\Debug\BLL.dll
+S:\Facilitating-Farmers\server\BLL\obj\Debug\BLL.pdb
+E:\dotnet\Facilitating_Farmers\server\BLL\bin\Debug\BLL.dll
+E:\dotnet\Facilitating_Farmers\server\BLL\bin\Debug\BLL.pdb
+E:\dotnet\Facilitating_Farmers\server\BLL\bin\Debug\AutoMapper.dll
+E:\dotnet\Facilitating_Farmers\server\BLL\bin\Debug\DAL.dll
+E:\dotnet\Facilitating_Farmers\server\BLL\bin\Debug\EntityFramework.dll
+E:\dotnet\Facilitating_Farmers\server\BLL\bin\Debug\DAL.pdb
+E:\dotnet\Facilitating_Farmers\server\BLL\bin\Debug\DAL.dll.config
+E:\dotnet\Facilitating_Farmers\server\BLL\bin\Debug\AutoMapper.xml
+E:\dotnet\Facilitating_Farmers\server\BLL\bin\Debug\EntityFramework.xml
+E:\dotnet\Facilitating_Farmers\server\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\dotnet\Facilitating_Farmers\server\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\dotnet\Facilitating_Farmers\server\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\dotnet\Facilitating_Farmers\server\BLL\obj\Debug\BLL.dll
+E:\dotnet\Facilitating_Farmers\server\BLL\obj\Debug\BLL.pdb
+E:\New folder\-net-project\BLL\bin\Debug\BLL.dll
+E:\New folder\-net-project\BLL\bin\Debug\BLL.pdb
+E:\New folder\-net-project\BLL\bin\Debug\AutoMapper.dll
+E:\New folder\-net-project\BLL\bin\Debug\DAL.dll
+E:\New folder\-net-project\BLL\bin\Debug\EntityFramework.dll
+E:\New folder\-net-project\BLL\bin\Debug\DAL.pdb
+E:\New folder\-net-project\BLL\bin\Debug\DAL.dll.config
+E:\New folder\-net-project\BLL\bin\Debug\AutoMapper.xml
+E:\New folder\-net-project\BLL\bin\Debug\EntityFramework.xml
+E:\New folder\-net-project\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\New folder\-net-project\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\New folder\-net-project\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\New folder\-net-project\BLL\obj\Debug\BLL.dll
+E:\New folder\-net-project\BLL\obj\Debug\BLL.pdb

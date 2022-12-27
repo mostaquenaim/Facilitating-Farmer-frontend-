@@ -1,0 +1,34 @@
+{
+  "Home": {
+    "HeroSectionSubtitle": {
+      "1": "Farming is now easier than ever"
+    },
+    "ServiceSectionHeader": {
+      "1": "Services"
+    }
+  },
+  "Course": {
+    "Btn": {
+      "1": "Courses",
+      "2": "Lets learn farming"
+    }
+  },
+  "Specialist": {
+    "Btn": {
+      "1": "Specialist"
+    }
+  },
+  "QA": {
+    "Btn": {
+      "1": "Q&A"
+    }
+  },
+  "BuySell": {
+    "Btn": {
+      "1": "Buy and Sell"
+    }
+  },
+  "SignIn": {
+    "1": "Sign in"
+  }
+}

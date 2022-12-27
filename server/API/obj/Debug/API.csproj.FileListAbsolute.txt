@@ -1,0 +1,387 @@
+S:\Facilitating-Farmers\server\server\bin\server.dll.config
+S:\Facilitating-Farmers\server\server\bin\server.dll
+S:\Facilitating-Farmers\server\server\bin\server.pdb
+S:\Facilitating-Farmers\server\server\bin\roslyn\csc.exe
+S:\Facilitating-Farmers\server\server\bin\roslyn\csc.exe.config
+S:\Facilitating-Farmers\server\server\bin\roslyn\csc.rsp
+S:\Facilitating-Farmers\server\server\bin\roslyn\csi.exe
+S:\Facilitating-Farmers\server\server\bin\roslyn\csi.exe.config
+S:\Facilitating-Farmers\server\server\bin\roslyn\csi.rsp
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.Managed.Core.targets
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Facilitating-Farmers\server\server\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.AppContext.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Collections.Immutable.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Console.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Globalization.Calendars.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.IO.Compression.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.IO.Compression.ZipFile.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.IO.FileSystem.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Net.Http.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Net.Sockets.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Reflection.Metadata.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Threading.Tasks.Extensions.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.ValueTuple.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Xml.XPath.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Facilitating-Farmers\server\server\bin\roslyn\vbc.exe
+S:\Facilitating-Farmers\server\server\bin\roslyn\vbc.exe.config
+S:\Facilitating-Farmers\server\server\bin\roslyn\vbc.rsp
+S:\Facilitating-Farmers\server\server\bin\roslyn\VBCSCompiler.exe
+S:\Facilitating-Farmers\server\server\bin\roslyn\VBCSCompiler.exe.config
+S:\Facilitating-Farmers\server\server\bin\Antlr3.Runtime.dll
+S:\Facilitating-Farmers\server\server\bin\BLL.dll
+S:\Facilitating-Farmers\server\server\bin\EntityFramework.dll
+S:\Facilitating-Farmers\server\server\bin\EntityFramework.SqlServer.dll
+S:\Facilitating-Farmers\server\server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Facilitating-Farmers\server\server\bin\Microsoft.Web.Infrastructure.dll
+S:\Facilitating-Farmers\server\server\bin\Newtonsoft.Json.dll
+S:\Facilitating-Farmers\server\server\bin\System.Net.Http.Formatting.dll
+S:\Facilitating-Farmers\server\server\bin\System.Web.Helpers.dll
+S:\Facilitating-Farmers\server\server\bin\System.Web.Http.dll
+S:\Facilitating-Farmers\server\server\bin\System.Web.Http.WebHost.dll
+S:\Facilitating-Farmers\server\server\bin\System.Web.Mvc.dll
+S:\Facilitating-Farmers\server\server\bin\System.Web.Optimization.dll
+S:\Facilitating-Farmers\server\server\bin\System.Web.Razor.dll
+S:\Facilitating-Farmers\server\server\bin\System.Web.WebPages.Deployment.dll
+S:\Facilitating-Farmers\server\server\bin\System.Web.WebPages.dll
+S:\Facilitating-Farmers\server\server\bin\System.Web.WebPages.Razor.dll
+S:\Facilitating-Farmers\server\server\bin\WebGrease.dll
+S:\Facilitating-Farmers\server\server\bin\DAL.dll
+S:\Facilitating-Farmers\server\server\bin\AutoMapper.dll
+S:\Facilitating-Farmers\server\server\bin\BLL.pdb
+S:\Facilitating-Farmers\server\server\bin\EntityFramework.xml
+S:\Facilitating-Farmers\server\server\bin\EntityFramework.SqlServer.xml
+S:\Facilitating-Farmers\server\server\bin\Newtonsoft.Json.xml
+S:\Facilitating-Farmers\server\server\bin\System.Net.Http.Formatting.xml
+S:\Facilitating-Farmers\server\server\bin\System.Web.Helpers.xml
+S:\Facilitating-Farmers\server\server\bin\System.Web.Http.xml
+S:\Facilitating-Farmers\server\server\bin\System.Web.Http.WebHost.xml
+S:\Facilitating-Farmers\server\server\bin\System.Web.Mvc.xml
+S:\Facilitating-Farmers\server\server\bin\System.Web.Optimization.xml
+S:\Facilitating-Farmers\server\server\bin\System.Web.Razor.xml
+S:\Facilitating-Farmers\server\server\bin\System.Web.WebPages.xml
+S:\Facilitating-Farmers\server\server\bin\System.Web.WebPages.Deployment.xml
+S:\Facilitating-Farmers\server\server\bin\System.Web.WebPages.Razor.xml
+S:\Facilitating-Farmers\server\server\bin\Antlr3.Runtime.pdb
+S:\Facilitating-Farmers\server\server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Facilitating-Farmers\server\server\bin\DAL.pdb
+S:\Facilitating-Farmers\server\server\bin\DAL.dll.config
+S:\Facilitating-Farmers\server\server\bin\AutoMapper.xml
+S:\Facilitating-Farmers\server\server\obj\Debug\API.csproj.AssemblyReference.cache
+S:\Facilitating-Farmers\server\server\obj\Debug\API.csproj.CoreCompileInputs.cache
+S:\Facilitating-Farmers\server\server\obj\Debug\API.csproj.CopyComplete
+S:\Facilitating-Farmers\server\server\obj\Debug\server.dll
+S:\Facilitating-Farmers\server\server\obj\Debug\server.pdb
+S:\Facilitating-Farmers\server\API\bin\server.dll.config
+S:\Facilitating-Farmers\server\API\bin\server.dll
+S:\Facilitating-Farmers\server\API\bin\server.pdb
+S:\Facilitating-Farmers\server\API\bin\roslyn\csc.exe
+S:\Facilitating-Farmers\server\API\bin\roslyn\csc.exe.config
+S:\Facilitating-Farmers\server\API\bin\roslyn\csc.rsp
+S:\Facilitating-Farmers\server\API\bin\roslyn\csi.exe
+S:\Facilitating-Farmers\server\API\bin\roslyn\csi.exe.config
+S:\Facilitating-Farmers\server\API\bin\roslyn\csi.rsp
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Facilitating-Farmers\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.AppContext.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Collections.Immutable.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Console.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Globalization.Calendars.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.IO.Compression.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.IO.FileSystem.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Net.Http.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Net.Sockets.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Reflection.Metadata.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.ValueTuple.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Xml.XPath.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Facilitating-Farmers\server\API\bin\roslyn\vbc.exe
+S:\Facilitating-Farmers\server\API\bin\roslyn\vbc.exe.config
+S:\Facilitating-Farmers\server\API\bin\roslyn\vbc.rsp
+S:\Facilitating-Farmers\server\API\bin\roslyn\VBCSCompiler.exe
+S:\Facilitating-Farmers\server\API\bin\roslyn\VBCSCompiler.exe.config
+S:\Facilitating-Farmers\server\API\bin\Antlr3.Runtime.dll
+S:\Facilitating-Farmers\server\API\bin\BLL.dll
+S:\Facilitating-Farmers\server\API\bin\EntityFramework.dll
+S:\Facilitating-Farmers\server\API\bin\EntityFramework.SqlServer.dll
+S:\Facilitating-Farmers\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Facilitating-Farmers\server\API\bin\Microsoft.Web.Infrastructure.dll
+S:\Facilitating-Farmers\server\API\bin\Newtonsoft.Json.dll
+S:\Facilitating-Farmers\server\API\bin\System.Net.Http.Formatting.dll
+S:\Facilitating-Farmers\server\API\bin\System.Web.Helpers.dll
+S:\Facilitating-Farmers\server\API\bin\System.Web.Http.dll
+S:\Facilitating-Farmers\server\API\bin\System.Web.Http.WebHost.dll
+S:\Facilitating-Farmers\server\API\bin\System.Web.Mvc.dll
+S:\Facilitating-Farmers\server\API\bin\System.Web.Optimization.dll
+S:\Facilitating-Farmers\server\API\bin\System.Web.Razor.dll
+S:\Facilitating-Farmers\server\API\bin\System.Web.WebPages.Deployment.dll
+S:\Facilitating-Farmers\server\API\bin\System.Web.WebPages.dll
+S:\Facilitating-Farmers\server\API\bin\System.Web.WebPages.Razor.dll
+S:\Facilitating-Farmers\server\API\bin\WebGrease.dll
+S:\Facilitating-Farmers\server\API\bin\DAL.dll
+S:\Facilitating-Farmers\server\API\bin\AutoMapper.dll
+S:\Facilitating-Farmers\server\API\bin\BLL.pdb
+S:\Facilitating-Farmers\server\API\bin\EntityFramework.xml
+S:\Facilitating-Farmers\server\API\bin\EntityFramework.SqlServer.xml
+S:\Facilitating-Farmers\server\API\bin\Newtonsoft.Json.xml
+S:\Facilitating-Farmers\server\API\bin\System.Net.Http.Formatting.xml
+S:\Facilitating-Farmers\server\API\bin\System.Web.Helpers.xml
+S:\Facilitating-Farmers\server\API\bin\System.Web.Http.xml
+S:\Facilitating-Farmers\server\API\bin\System.Web.Http.WebHost.xml
+S:\Facilitating-Farmers\server\API\bin\System.Web.Mvc.xml
+S:\Facilitating-Farmers\server\API\bin\System.Web.Optimization.xml
+S:\Facilitating-Farmers\server\API\bin\System.Web.Razor.xml
+S:\Facilitating-Farmers\server\API\bin\System.Web.WebPages.xml
+S:\Facilitating-Farmers\server\API\bin\System.Web.WebPages.Deployment.xml
+S:\Facilitating-Farmers\server\API\bin\System.Web.WebPages.Razor.xml
+S:\Facilitating-Farmers\server\API\bin\Antlr3.Runtime.pdb
+S:\Facilitating-Farmers\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Facilitating-Farmers\server\API\bin\DAL.pdb
+S:\Facilitating-Farmers\server\API\bin\DAL.dll.config
+S:\Facilitating-Farmers\server\API\bin\AutoMapper.xml
+S:\Facilitating-Farmers\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+S:\Facilitating-Farmers\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+S:\Facilitating-Farmers\server\API\obj\Debug\API.csproj.CopyComplete
+S:\Facilitating-Farmers\server\API\obj\Debug\server.dll
+S:\Facilitating-Farmers\server\API\obj\Debug\server.pdb
+E:\dotnet\Facilitating_Farmers\server\API\bin\server.dll.config
+E:\dotnet\Facilitating_Farmers\server\API\bin\server.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\server.pdb
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\csc.exe
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\csc.exe.config
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\csc.rsp
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\csi.exe
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\csi.exe.config
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\csi.rsp
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.AppContext.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Collections.Immutable.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Console.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Globalization.Calendars.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.IO.Compression.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.IO.FileSystem.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Net.Http.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Net.Sockets.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Reflection.Metadata.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.ValueTuple.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Xml.XPath.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\vbc.exe
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\vbc.exe.config
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\vbc.rsp
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\VBCSCompiler.exe
+E:\dotnet\Facilitating_Farmers\server\API\bin\roslyn\VBCSCompiler.exe.config
+E:\dotnet\Facilitating_Farmers\server\API\bin\Antlr3.Runtime.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\BLL.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\EntityFramework.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\EntityFramework.SqlServer.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\Microsoft.Web.Infrastructure.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\Newtonsoft.Json.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Net.Http.Formatting.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Helpers.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Http.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Http.WebHost.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Mvc.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Optimization.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Razor.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.WebPages.Deployment.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.WebPages.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.WebPages.Razor.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\WebGrease.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\DAL.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\AutoMapper.dll
+E:\dotnet\Facilitating_Farmers\server\API\bin\BLL.pdb
+E:\dotnet\Facilitating_Farmers\server\API\bin\EntityFramework.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\EntityFramework.SqlServer.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\Newtonsoft.Json.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Net.Http.Formatting.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Helpers.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Http.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Http.WebHost.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Mvc.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Optimization.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.Razor.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.WebPages.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.WebPages.Deployment.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\System.Web.WebPages.Razor.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\Antlr3.Runtime.pdb
+E:\dotnet\Facilitating_Farmers\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dotnet\Facilitating_Farmers\server\API\bin\DAL.pdb
+E:\dotnet\Facilitating_Farmers\server\API\bin\DAL.dll.config
+E:\dotnet\Facilitating_Farmers\server\API\bin\AutoMapper.xml
+E:\dotnet\Facilitating_Farmers\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+E:\dotnet\Facilitating_Farmers\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+E:\dotnet\Facilitating_Farmers\server\API\obj\Debug\API.csproj.CopyComplete
+E:\dotnet\Facilitating_Farmers\server\API\obj\Debug\server.dll
+E:\dotnet\Facilitating_Farmers\server\API\obj\Debug\server.pdb
+E:\New folder\-net-project\API\bin\server.dll.config
+E:\New folder\-net-project\API\bin\server.dll
+E:\New folder\-net-project\API\bin\server.pdb
+E:\New folder\-net-project\API\bin\roslyn\csc.exe
+E:\New folder\-net-project\API\bin\roslyn\csc.exe.config
+E:\New folder\-net-project\API\bin\roslyn\csc.rsp
+E:\New folder\-net-project\API\bin\roslyn\csi.exe
+E:\New folder\-net-project\API\bin\roslyn\csi.exe.config
+E:\New folder\-net-project\API\bin\roslyn\csi.rsp
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder\-net-project\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\New folder\-net-project\API\bin\roslyn\System.AppContext.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Console.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Globalization.Calendars.dll
+E:\New folder\-net-project\API\bin\roslyn\System.IO.Compression.dll
+E:\New folder\-net-project\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\New folder\-net-project\API\bin\roslyn\System.IO.FileSystem.dll
+E:\New folder\-net-project\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Net.Http.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Net.Sockets.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\New folder\-net-project\API\bin\roslyn\System.ValueTuple.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Xml.XPath.dll
+E:\New folder\-net-project\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\New folder\-net-project\API\bin\roslyn\vbc.exe
+E:\New folder\-net-project\API\bin\roslyn\vbc.exe.config
+E:\New folder\-net-project\API\bin\roslyn\vbc.rsp
+E:\New folder\-net-project\API\bin\roslyn\VBCSCompiler.exe
+E:\New folder\-net-project\API\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder\-net-project\API\bin\Antlr3.Runtime.dll
+E:\New folder\-net-project\API\bin\BLL.dll
+E:\New folder\-net-project\API\bin\EntityFramework.dll
+E:\New folder\-net-project\API\bin\EntityFramework.SqlServer.dll
+E:\New folder\-net-project\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder\-net-project\API\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder\-net-project\API\bin\Newtonsoft.Json.dll
+E:\New folder\-net-project\API\bin\System.Net.Http.Formatting.dll
+E:\New folder\-net-project\API\bin\System.Web.Helpers.dll
+E:\New folder\-net-project\API\bin\System.Web.Http.dll
+E:\New folder\-net-project\API\bin\System.Web.Http.WebHost.dll
+E:\New folder\-net-project\API\bin\System.Web.Mvc.dll
+E:\New folder\-net-project\API\bin\System.Web.Optimization.dll
+E:\New folder\-net-project\API\bin\System.Web.Razor.dll
+E:\New folder\-net-project\API\bin\System.Web.WebPages.Deployment.dll
+E:\New folder\-net-project\API\bin\System.Web.WebPages.dll
+E:\New folder\-net-project\API\bin\System.Web.WebPages.Razor.dll
+E:\New folder\-net-project\API\bin\WebGrease.dll
+E:\New folder\-net-project\API\bin\DAL.dll
+E:\New folder\-net-project\API\bin\AutoMapper.dll
+E:\New folder\-net-project\API\bin\BLL.pdb
+E:\New folder\-net-project\API\bin\EntityFramework.xml
+E:\New folder\-net-project\API\bin\EntityFramework.SqlServer.xml
+E:\New folder\-net-project\API\bin\Newtonsoft.Json.xml
+E:\New folder\-net-project\API\bin\System.Net.Http.Formatting.xml
+E:\New folder\-net-project\API\bin\System.Web.Helpers.xml
+E:\New folder\-net-project\API\bin\System.Web.Http.xml
+E:\New folder\-net-project\API\bin\System.Web.Http.WebHost.xml
+E:\New folder\-net-project\API\bin\System.Web.Mvc.xml
+E:\New folder\-net-project\API\bin\System.Web.Optimization.xml
+E:\New folder\-net-project\API\bin\System.Web.Razor.xml
+E:\New folder\-net-project\API\bin\System.Web.WebPages.xml
+E:\New folder\-net-project\API\bin\System.Web.WebPages.Deployment.xml
+E:\New folder\-net-project\API\bin\System.Web.WebPages.Razor.xml
+E:\New folder\-net-project\API\bin\Antlr3.Runtime.pdb
+E:\New folder\-net-project\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder\-net-project\API\bin\DAL.pdb
+E:\New folder\-net-project\API\bin\DAL.dll.config
+E:\New folder\-net-project\API\bin\AutoMapper.xml
+E:\New folder\-net-project\API\obj\Debug\API.csproj.AssemblyReference.cache
+E:\New folder\-net-project\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+E:\New folder\-net-project\API\obj\Debug\API.csproj.CopyComplete
+E:\New folder\-net-project\API\obj\Debug\server.dll
+E:\New folder\-net-project\API\obj\Debug\server.pdb
+E:\New folder\-net-project\API\bin\System.Web.Cors.dll
+E:\New folder\-net-project\API\bin\System.Web.Http.Cors.dll
+E:\New folder\-net-project\API\bin\System.Web.Http.Cors.xml
